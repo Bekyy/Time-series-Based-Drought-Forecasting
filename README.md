@@ -1,5 +1,5 @@
 # Time-series-Based-Drought-Forecasting
-> ## This work is A time series-based forecasting model to predict a future drought condition and make analysis by forecasting the indices that indicate the drought conditions in Borena Zone, Ethiopia.
+## This work is A time series-based forecasting model to predict a future drought condition and make analysis by forecasting the indices that indicate the drought conditions in Borena Zone, Ethiopia.
 There are several specificities in time-series modeling based on the nature of time-series data.
 ##### Univariate
 > The **univariate time series** consists of a single observation over some time. The term univariate refers to the analysis of one variable. Univariate time series are a dataset comprised of a single series of observations with a temporal ordering and a model is required to learn from the series of past observations to predict the next value in the sequence.
